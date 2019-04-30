@@ -1,0 +1,10 @@
+{
+    "name": "administrator/demo",
+    "description": "dev",
+    "type": "project",
+    "require": {
+        "symfony/filesystem": "*"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
