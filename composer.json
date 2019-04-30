@@ -1,10 +1,10 @@
 {
-    "name": "administrator/demo",
-    "description": "dev",
-    "type": "project",
-    "require": {
-        "symfony/filesystem": "*"
-    },
-    "license": "MIT",
-    "minimum-stability": "dev"
+    "name": "ycgmsmr/demo",
+    "authors": [
+        {
+            "name": "ycgmsmr",
+            "email": "ycgmsmr@163.com"
+        }
+    ],
+    "require": {}
 }
